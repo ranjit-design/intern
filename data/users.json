@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "fullName": "dummy",
+    "email": "dummy@example.com",
+    "phone": "1234567890",
+    "role": "User",
+    "gender": "Male",
+    "address": "xyz",
+    "appointmentTime": "2024-11-15 10:00 AM",
+    "assignedDoctor": "Dr. abc chaudhary"
+  }
+]

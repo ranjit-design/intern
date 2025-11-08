@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. abc chaudhary",
+    "department": "Cardiology",
+    "specialization": "Heart Surgery & Interventional Cardiology"
+  },
+  {
+    "id": "2",
+    "name": "Dr. xyz chaudhary",
+    "department": "Neurology",
+    "specialization": "Brain & Spine Disorders"
+  },
+  {
+    "id": "3",
+    "name": "Dr. def chaudhary",
+    "department": "Pediatrics",
+    "specialization": "Child Healthcare & Development"
+  },
+  {
+    "id": "4",
+    "name": "Dr. ijk chaudhary",
+    "department": "Orthopedics",
+    "specialization": "Joint Replacement & Sports Medicine"
+  },
+  {
+    "id": "5",
+    "name": "Dr. lmn chaudhary",
+    "department": "Dermatology",
+    "specialization": "Skin Disorders & Cosmetic Procedures"
+  }
+]
